@@ -1,0 +1,10 @@
+C:\Users\90545\source\repos\KütüohaneProgramı\KütüohaneProgramı\bin\Debug\KütüohaneProgramı.exe.config
+C:\Users\90545\source\repos\KütüohaneProgramı\KütüohaneProgramı\bin\Debug\KütüohaneProgramı.exe
+C:\Users\90545\source\repos\KütüohaneProgramı\KütüohaneProgramı\bin\Debug\KütüohaneProgramı.pdb
+C:\Users\90545\source\repos\KütüohaneProgramı\KütüohaneProgramı\obj\Debug\KütüohaneProgramı.csprojAssemblyReference.cache
+C:\Users\90545\source\repos\KütüohaneProgramı\KütüohaneProgramı\obj\Debug\KütüohaneProgramı.Form1.resources
+C:\Users\90545\source\repos\KütüohaneProgramı\KütüohaneProgramı\obj\Debug\KütüohaneProgramı.Properties.Resources.resources
+C:\Users\90545\source\repos\KütüohaneProgramı\KütüohaneProgramı\obj\Debug\KütüohaneProgramı.csproj.GenerateResource.cache
+C:\Users\90545\source\repos\KütüohaneProgramı\KütüohaneProgramı\obj\Debug\KütüohaneProgramı.csproj.CoreCompileInputs.cache
+C:\Users\90545\source\repos\KütüohaneProgramı\KütüohaneProgramı\obj\Debug\KütüohaneProgramı.exe
+C:\Users\90545\source\repos\KütüohaneProgramı\KütüohaneProgramı\obj\Debug\KütüohaneProgramı.pdb
